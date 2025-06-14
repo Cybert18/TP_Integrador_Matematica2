@@ -10,6 +10,7 @@ Este trabajo integrador combina conceptos de matemática (conjuntos y lógica) c
 - `README.md`: Este archivo.
 
 ## 🧮 Funcionalidades del Programa
+-En este punto queremos destacar que hicimos 2 progrmas uno para los conjuntos DNI y otro para los años de nacimiento
 
 ### Operaciones con DNIs
 - Ingreso de DNIs (reales o ficticios).
