@@ -6,7 +6,7 @@ Este trabajo integrador combina conceptos de matemática (conjuntos y lógica) c
 
 - Documento PDF: Desarrollo teórico con operaciones de conjuntos, expresiones lógicas y diagramas de Venn.
 - Programa en python: Código fuente en Python que implementa las operaciones con DNIs y años de nacimiento.
-- Video en You Tube: Video grupal explicando el funcionamiento del programa y el proceso de trabajo.
+- Video en You Tube: (https://youtu.be/oA_7spFjub4?si=BMhjsn0dUNe3zB3g) Video grupal explicando el funcionamiento del programa y el proceso de trabajo.
 - `README.md`: Este archivo.
 
 ## 🧮 Funcionalidades del Programa
